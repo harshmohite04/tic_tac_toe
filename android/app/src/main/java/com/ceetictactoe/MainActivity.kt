@@ -1,4 +1,4 @@
-package com.tic_tac_toe
+package com.ceetictactoe.myapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
